@@ -6,5 +6,5 @@ This is **A Resume Building Site** to help with the writing of standadized **Res
 
 # AUTHOR
 * Lomotey Okantah Emmanuel (Full-Stack Software Engineer)
-* [WhatsApp](https://api.whatsapp.com/send?phone=+233%20550%20735%20691&text=Hello)
+* [WhatsApp](https://api.whatsapp.com/send?phone=+233%20550%20735%20691&text=)
 * [LinkedIn](https://linkedin.com/in/emmanuellomotey)
